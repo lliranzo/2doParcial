@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "99693897439",
+    "firebase_url": "https://parcialdo-9ea45.firebaseio.com",
+    "project_id": "parcialdo-9ea45",
+    "storage_bucket": "parcialdo-9ea45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99693897439:android:880a32f147e42d640eeb6a",
+        "android_client_info": {
+          "package_name": "com.example.a2doparcial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99693897439-51l36pqf34du6vkub42id2u5r6s9akn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXPXRCdOfmNCJ1o8oT4snsg23tMKA7izQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99693897439-51l36pqf34du6vkub42id2u5r6s9akn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
